@@ -4,7 +4,7 @@ Sure! Here’s an even more visually appealing and engaging README, incorporatin
 
 # 🏦 Bank Management System
 
-![Bank Management System](https://via.placeholder.com/800x200?text=Bank+Management+System)  
+![Bank Management System](https://github.com/sumankhatua5/Bank_Management_System/blob/main/Screenshot%202024-10-05%20223935.png)  
 
 ---
 
@@ -30,9 +30,6 @@ Welcome to the **Bank Management System**, a user-friendly web application desig
 
 - **📄 Account Summary**  
   Get a detailed overview of your account at a glance.
-
-- **🔑 Password Management**  
-  Change your password securely to keep your account safe.
 
 - **❌ Account Deletion**  
   Remove your account with ease if needed.
@@ -61,34 +58,13 @@ Follow these simple steps to set up the **Bank Management System** locally:
 
 2. **Navigate to the project directory:**
 
-   ```bash
-   cd bank-management-system
-   ```
 
-3. **Install the required packages:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the application:**
-
-   ```bash
-   streamlit run app.py
-   ```
-
----
 
 ## 🎨 How to Use
 
 1. Register a new account or log in with existing credentials.
 2. Explore various functionalities available in the application!
 
----
-
-
-
----
 
 ## 📬 Contact
 
