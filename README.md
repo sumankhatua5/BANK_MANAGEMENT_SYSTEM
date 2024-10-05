@@ -13,6 +13,8 @@ Sure! Here’s an even more visually appealing and engaging README, incorporatin
 Welcome to the **Bank Management System**, a user-friendly web application designed to simplify banking operations. Built using **Python**, **SQL**, and **Streamlit**, this system empowers users to manage their banking needs effortlessly.
 
 ---
+![Bank Management System](https://github.com/sumankhatua5/Bank_Management_System/blob/main/Screenshot%202024-10-05%20223935.png)  
+![Bank Management System](https://github.com/sumankhatua5/Bank_Management_System/blob/main/Screenshot%202024-10-05%20223935.png)  
 
 ## 🌟 Key Features
 
