@@ -14,7 +14,7 @@ Welcome to the **Bank Management System**, a user-friendly web application desig
 
 ---
 ![Bank Management System](https://github.com/sumankhatua5/Bank_Management_System/blob/main/Screenshot%202024-10-05%20225209.png)  
-![Bank Management System](https://github.com/sumankhatua5/Bank_Management_System/blob/main/Screenshot%202024-10-05%20223935.png)  
+![Bank Management System](https://github.com/sumankhatua5/Bank_Management_System/blob/main/Screenshot%202024-10-05%20225230.png)  
 
 ## 🌟 Key Features
 
